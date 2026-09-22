@@ -1,4 +1,4 @@
-# Serverless HR Lookup Application
+# Assignment-2
 
 ## Overview
 
@@ -65,8 +65,4 @@ The application was deployed using AWS Lambda, API Gateway, DynamoDB, Cognito, a
 
 ## AI Assistance
 
-AI assistance was used to explain the AWS architecture, generate and debug Lambda code, configure Cognito authentication and PKCE, troubleshoot API Gateway integration, and prepare documentation.
-
-## Security
-
-This repository does not contain AWS access keys, secret keys, passwords, client secrets, authentication tokens, or other credentials.
+AI assistance was used to write the Lambda code and configure Cognito authentication and PKCE.(ChatGPT)
